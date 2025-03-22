@@ -10,7 +10,7 @@ social:
   email: 2829004293@qq.com
   github: //github.com/heyeuu
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: /assets/Wechat.jpg
   # qq should be a path of qr-code image path
   qq: 2829004293
   telegram: 19855838113
@@ -35,7 +35,7 @@ friends:
   # friendB: //www.google.com
 about:
   enable: true
-  image: /intro/about-bg.jpg
+  image: /intro/robberDog.jpg
 # Search for website
 search:
   enable: false
@@ -62,20 +62,20 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: heyeuuu's Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - "hexo-theme"
   - "hexo-blog"
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: heyeuuu's Studio.
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
-site_header_image: /intro/index-bg.jpg
+site_header_image: /intro/Pain.jpg
 # post haeder image
-post_header_image: /intro/post-bg.jpg
+post_header_image: /intro/FBI.jpg
 # 404 image
 _404_image: /intro/404-bg.jpg
 
