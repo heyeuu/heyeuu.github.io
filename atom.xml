@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>heyeuuu&#39;s studio</title>
+  
+  <subtitle>heyeuuu&#39;s studio </subtitle>
+  <link href="https://heyeuu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://heyeuu.github.io/"/>
+  <updated>2025-05-05T15:45:16.809Z</updated>
+  <id>https://heyeuu.github.io/</id>
+  
+  <author>
+    <name>heyeuuu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://heyeuu.github.io/2025/05/05/hello-world/"/>
+    <id>https://heyeuu.github.io/2025/05/05/hello-world/</id>
+    <published>2025-05-05T15:45:16.809Z</published>
+    <updated>2025-05-05T15:45:16.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://heyeuu.github.io/">heyeuuu’s Studio</a>! Let’s do something from hello world to hello world!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://heyeuu.github.io/&quot;&gt;heyeuuu’s Studio&lt;/a&gt;! Let’s do something from hello world to hello world!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>deeplearning plan</title>
+    <link href="https://heyeuu.github.io/2025/04/23/deeplearning-plan/"/>
+    <id>https://heyeuu.github.io/2025/04/23/deeplearning-plan/</id>
+    <published>2025-04-23T02:48:22.000Z</published>
+    <updated>2025-05-05T15:45:16.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>雷达:</p><ul><li><input disabled="" type="checkbox"> 先瞅一瞅ultralystic的指南,脑袋瓜子里有个大致流程的轮廓,output 思路和完成步骤,即以下内容</li><li><input checked="" disabled="" type="checkbox"> 跟lsy同志了解一下雷达的现况.(悲,我现在是两眼一抹黑)<ul><li>他说他正在进行一个版本迭代,我还是不知</li></ul></li><li><input disabled="" type="checkbox"> 根据需求敲定视觉任务 <a href="https://docs.ultralytics.com/zh/tasks/#what-computer-vision-tasks-can-ultralytics-yolo11-perform">doc</a><br>  (依据cqq所说,得到一张装甲板的照片,那么也许图片分类是更合适的,无需瞅一瞅有没有装甲板,在哪里)</li><li><input disabled="" type="checkbox"> 选个模型(再考虑下训练方式:从头or迁移(有待探索);部署情况(这个也打听一下,在这之前得去了解一些设备性能的指标))</li><li><input disabled="" type="checkbox"> 已有些开源数据集,得去了解下怎么数据扩充,顺便探索下怎么可视化这个数据扩充的效果(<a href="https://docs.ultralytics.com/zh/guides/preprocessing_annotated_data/#importance-of-data-preprocessing">数据预处理</a>)</li><li><input disabled="" type="checkbox"> train个模型,需要了解一些衡量模型好坏的指标</li><li><input disabled="" type="checkbox"> 调模型</li><li><input disabled="" type="checkbox"> 模型要是看起来还不错,那就val一下,可能需要解决一些过拟合,欠拟合,数据泄露等问题,maybe 交叉验证,异常检测等可能会解决问题(这个得explore一下)</li><li><input disabled="" type="checkbox"> 部署模型<ul><li>[ ]配环境:配必要的基础设施:云or边缘? (不懂,待了解)</li><li>[ ]导出模型</li><li>[ ]部署</li></ul></li><li><input disabled="" type="checkbox"> 跟踪,维护</li></ul><p>科研训练:<br>ideas:</p><ul><li><input disabled="" type="checkbox"> 物体跟踪,(?定向边框检验?)来监控乒乓球的速度</li><li><input disabled="" type="checkbox"> </li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;雷达:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; 先瞅一瞅ultralystic的指南,脑袋瓜子里有个大致流程的轮廓,output 思路和完成步骤,即以下内容&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; di</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Some thoughts</title>
+    <link href="https://heyeuu.github.io/2025/04/06/Some-thoughts/"/>
+    <id>https://heyeuu.github.io/2025/04/06/Some-thoughts/</id>
+    <published>2025-04-06T19:49:53.000Z</published>
+    <updated>2025-05-05T15:45:16.808Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里用来记录一些某时突如其来的感慨!</p><p>[2025.4.6]<br>“这世界真他妈的神奇,允许一切事情发生好了,毕竟我所能掌控的只有我自己,感受自己的身体 经营好每日的生活就挺好.”</p><p>[2025.4.7]<br>“困了就睡大抵是世界上最幸福的事情之一了.”</p><p>[2025.4.8]<br>“用心地经营好自己的生活.失败是什么呢?平静地接受,但,减少不必要的失败发生的概率.不想多说了,但明天总是可以restart的,这是超重要的事情.”</p><p>[2025.4.9]<br>哎呦啊 没打算设置权限的 别再配置文件里写入权限配置文件的路径啊啊啊 我知道你配置文件什么都没写555555这次原谅你(摸头)<br>有时是会怀疑的,但看到你我就会重燃斗志<br>会有痕迹.</p><p>[4.20]<br>我只是想这么做罢了.为了怕爸妈的言语阻挠,我总是先斩后奏;为了不被爸妈经济制裁,我悄悄攒钱慢慢挣钱.挺好的.你看啊,即便你在赛场上箭步如飞,那又怎样呢,把自己的价值建立在与他人的比较之上从而获得一些优越感吗?我不要这样.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这里用来记录一些某时突如其来的感慨!&lt;/p&gt;
+&lt;p&gt;[2025.4.6]&lt;br&gt;“这世界真他妈的神奇,允许一切事情发生好了,毕竟我所能掌控的只有我自己,感受自己的身体 经营好每日的生活就挺好.”&lt;/p&gt;
+&lt;p&gt;[2025.4.7]&lt;br&gt;“困了就睡大抵是世界上最幸福的事情之</summary>
+      
+    
+    
+    
+    <category term="public diary" scheme="https://heyeuu.github.io/categories/public-diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Wishes to be fulfilled(未完待续)</title>
+    <link href="https://heyeuu.github.io/2025/04/05/Wishes-to-be-fulfilled/"/>
+    <id>https://heyeuu.github.io/2025/04/05/Wishes-to-be-fulfilled/</id>
+    <published>2025-04-05T08:32:35.000Z</published>
+    <updated>2025-04-06T02:20:15.884Z</updated>
+    
+    <content type="html"><![CDATA[<p>脑袋瓜子里时不时有些感觉很好玩的点子冒出来,特此做个记录,以后慢慢实现(以下排名不分先后)</p><ul><li><input disabled="" type="checkbox"> 一个可控的蜘蛛(非拟生,我怕aaaaa),样子倒是可以参考一下紫堂幻的小蜘蛛</li><li><input disabled="" type="checkbox"> 怎么突然想cos凯莉啊,许久许久没看了(托腮),很简单,需要好吃的棒棒糖,以及一个很酷的星月刃(月的话,先放一放,倒是可以在星上动些手脚,想法是一个很小的飞控,遥控器的话emmmm要足够小,如果能通过手部动作来进行控制就好了,而非传统的遥控器,这样更有飞刃的感觉)</li><li><input disabled="" type="checkbox"> 写首歌略显含蓄地表达下俺的心流(会有机会分享给cqq吗)</li><li><input checked="" disabled="" type="checkbox"> 到底怎么样才能让cqq知道我的心意aaaaaa(hh他已经知道了)</li><li><input checked="" disabled="" type="checkbox"> 感受马拉松的全过程和感受(好的,脑袋瓜里是cqq)</li><li><input disabled="" type="checkbox"> 俺滴马甲线~</li><li><input disabled="" type="checkbox"> 进行一个放肆地draw<ul><li><input disabled="" type="checkbox"> 厚涂系列:<ul><li><input disabled="" type="checkbox"> &lt;再见深海&gt;系列</li></ul></li></ul></li><li><input disabled="" type="checkbox"> 想要进行一个好玩的玩具的制作!~初步(或者说是毫无调查 仅有头脑建模的想法)之前是有粘土做手办的想法的,也有用ai进行模拟声音的想法的,也有进行声音存储的想法的,如果可以进行一个声音的收发那也是非常good.那么,把它们融合起来,就得到了一个可可爱爱的手办,可以发出甜美的声音,可以反复收听,也可以作为对讲机进行一个留言(托腮)   一个很美丽的想法(一本正经)</li><li><input disabled="" type="checkbox"> ?</li><li><input disabled="" type="checkbox"> Hello world!</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;脑袋瓜子里时不时有些感觉很好玩的点子冒出来,特此做个记录,以后慢慢实现(以下排名不分先后)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; 一个可控的蜘蛛(非拟生,我怕aaaaa),样子倒是可以参考一下紫堂幻的小蜘蛛&lt;/li</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lovely website index</title>
+    <link href="https://heyeuu.github.io/2025/04/04/lovely-website-index/"/>
+    <id>https://heyeuu.github.io/2025/04/04/lovely-website-index/</id>
+    <published>2025-04-04T01:09:28.000Z</published>
+    <updated>2025-05-05T15:45:16.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>进行一个可爱网站的捕捉：</p><ul><li>第一个，我的博客，最可爱滴</li><li><a href="https://zh.d2l.ai/chapter_preface/index.html">深度学习（recommended by lsy）（感谢）</a> </li><li><a href="https://csdiy.wiki/">CS自学指南(recommended by myy)(感谢捏)</a></li><li><a href="https://creeper5820.com/">一位友人creeper5820的博客(感谢捏捏)</a></li><li><a href="https://fishros.com/d2lros2/#/">小鱼的ROS2教程</a></li><li><a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html">TypeScript的官方教程(recommended by creeper5820)(感谢捏)</a></li></ul><p>当然不只这些，但因为easy to search or 我还没有find ，so 先捕捉这些，以后再来捕<br>Hello world!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;进行一个可爱网站的捕捉：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一个，我的博客，最可爱滴&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.d2l.ai/chapter_preface/index.html&quot;&gt;深度学习（recommended by lsy）（感谢）&lt;/a&gt; </summary>
+      
+    
+    
+    
+    <category term="learn" scheme="https://heyeuu.github.io/categories/learn/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Play with yolov8</title>
+    <link href="https://heyeuu.github.io/2025/04/04/play-with-yolov8/"/>
+    <id>https://heyeuu.github.io/2025/04/04/play-with-yolov8/</id>
+    <published>2025-04-04T00:01:20.000Z</published>
+    <updated>2025-05-05T15:45:16.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>废话少说，先记录一下流程以便复现<br>[上网页] (<a href="https://docs.ultralytics.com/),%E7%82%B9%E5%87%BBget">https://docs.ultralytics.com/),点击get</a> start，俺是直接拉了个镜像，有了环境后，点击左侧标题栏中Task中Pose（根据需求叭）<br>对于Train,提供CLI：</p><figure class="highlight plaintext"><figcaption><span>Build a new model from YAML and start training from scratch</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">yolo pose train data=coco8-pose.yaml model=yolo11n-pose.yaml epochs=100 imgsz=640</span><br><span class="line"></span><br><span class="line"># Start training from a pretrained *.pt model</span><br><span class="line">yolo pose train data=coco8-pose.yaml model=yolo11n-pose.pt epochs=100 imgsz=640</span><br><span class="line"></span><br><span class="line"># Build a new model from YAML, transfer pretrained weights to it and start training</span><br><span class="line">yolo pose train data=coco8-pose.yaml model=yolo11n-pose.yaml pretrained=yolo11n-pose.pt epochs=100 imgsz=640</span><br></pre></td></tr></table></figure><p><code>data</code>为指明数据集有关信息的配置文件，like this:</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]</span></span><br><span class="line"><span class="attr">path:</span> <span class="string">/root/workspace/datasets</span> <span class="comment"># dataset root dir (absolute or relative; if relative, it&#x27;s relative to default datasets_dir)</span></span><br><span class="line"><span class="attr">train:</span> <span class="string">images/train</span> <span class="comment"># train images (relative to &#x27;path&#x27;) 4 images</span></span><br><span class="line"><span class="attr">val:</span> <span class="string">images/val</span> <span class="comment"># val images (relative to &#x27;path&#x27;) 4 images</span></span><br><span class="line"><span class="attr">test:</span> <span class="comment"># test images (optional)</span></span><br><span class="line"><span class="attr">kpt_shape:</span> [<span class="number">4</span>, <span class="number">2</span>] <span class="comment"># number of keypoints, number of dims (2 for x,y or 3 for x,y,visible)</span></span><br><span class="line"><span class="comment"># flip_idx: [0, 2, 1, 4, 3, 6, 5, 8, 7, 10, 9, 12, 11, 14, 13, 16, 15]</span></span><br><span class="line"><span class="attr">nc:</span> <span class="number">14</span></span><br><span class="line"><span class="attr">names:</span></span><br><span class="line">    <span class="attr">0:</span> <span class="string">B1</span> </span><br><span class="line">    <span class="attr">1:</span> <span class="string">B2</span> </span><br><span class="line">    <span class="attr">2:</span> <span class="string">B3</span></span><br><span class="line">    <span class="attr">3:</span> <span class="string">B4</span></span><br><span class="line">    <span class="attr">4:</span> <span class="string">B5</span></span><br><span class="line">    <span class="attr">5:</span> <span class="string">BO</span></span><br><span class="line">    <span class="attr">6:</span> <span class="string">BS</span></span><br><span class="line">    <span class="attr">7:</span> <span class="string">R1</span></span><br><span class="line">    <span class="attr">8:</span> <span class="string">R2</span></span><br><span class="line">    <span class="attr">9:</span> <span class="string">R3</span></span><br><span class="line">    <span class="attr">10:</span> <span class="string">R4</span></span><br><span class="line">    <span class="attr">11:</span> <span class="string">R5</span></span><br><span class="line">    <span class="attr">12:</span> <span class="string">RO</span></span><br><span class="line">    <span class="attr">13:</span> <span class="string">RS</span></span><br></pre></td></tr></table></figure><p>maybe 会使用到这个指令：</p><figure class="highlight zsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ yolo pose train data=armor_kpt.yaml model=yolo11n-pose.pt epochs=1 imgsz=640 device=0</span><br></pre></td></tr></table></figure><p>but 具体参数得改改<br>然后会得到一些反馈，其中有一句，类似这样子：</p><figure class="highlight zsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ Results saved to /ultralytics/runs/pose/train5</span><br></pre></td></tr></table></figure><p>那么在之后测试时，可能会用到类似于这样的指令：</p><figure class="highlight zsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yolo val model=/ultralytics/runs/pose/train5/weights/best.pt data=armor_kpt.yaml</span><br></pre></td></tr></table></figure><p>这里想强调的是，记得把model换成刚刚训练的模型，就在刚才那句<code>Results saved to /ultralytics/runs/pose/train5</code>里<br>剩下predict、export、track啥的还没试，晚点说，就这样<br>现在只想随心记录下来，格式下次再说<br>Hello world！</p><h6 id="特别鸣谢：lsy"><a href="#特别鸣谢：lsy" class="headerlink" title="特别鸣谢：lsy"></a>特别鸣谢：lsy</h6>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;废话少说，先记录一下流程以便复现&lt;br&gt;[上网页] (&lt;a href=&quot;https://docs.ultralytics.com/),%E7%82%B9%E5%87%BBget&quot;&gt;https://docs.ultralytics.com/),点击get&lt;/a&gt; start，</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>What I wanted</title>
+    <link href="https://heyeuu.github.io/2025/03/29/I-wanted-plan/"/>
+    <id>https://heyeuu.github.io/2025/03/29/I-wanted-plan/</id>
+    <published>2025-03-29T15:13:33.000Z</published>
+    <updated>2025-03-31T13:06:13.360Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="What-I-wanna-to-do-2025-3-30"><a href="#What-I-wanna-to-do-2025-3-30" class="headerlink" title="What I wanna to do(2025.3.30):"></a>What I wanna to do(2025.3.30):</h2><h3 id="To-learn"><a href="#To-learn" class="headerlink" title="To learn:"></a>To learn:</h3><ul><li><input disabled="" type="checkbox"> The architecture of RMCS</li><li><input disabled="" type="checkbox"> Python basic</li><li><input disabled="" type="checkbox"> According to <a href="https://www.geeksforgeeks.org/opencv-python-tutorial/">the opencv toturial</a> to achieve basic functionality and develop a broad understanding of the OpenCV library.<br><del>(total one week?then start next stage)</del></li><li><input disabled="" type="checkbox"> ?</li></ul><h3 id="Todo-list"><a href="#Todo-list" class="headerlink" title="Todo list"></a>Todo list</h3><ul><li><input checked="" disabled="" type="checkbox"> Convert the blog from static to dynamic pages using a database.</li><li><input checked="" disabled="" type="checkbox"> Spin up a cloud server to explore(虽然还没完全明白哈)</li><li><input disabled="" type="checkbox"> Please see my records</li><li><input disabled="" type="checkbox"> ?</li></ul><h3 id="To-buy-not-hurry"><a href="#To-buy-not-hurry" class="headerlink" title="To buy(not hurry)"></a>To buy(not hurry)</h3><ul><li><input checked="" disabled="" type="checkbox"> A road bike(是帅气的迪卡侬rc100捏)</li><li><input disabled="" type="checkbox"> A tablet to draw and write</li><li><input disabled="" type="checkbox"> A camera to record something or fun</li><li><input disabled="" type="checkbox"> ?</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;What-I-wanna-to-do-2025-3-30&quot;&gt;&lt;a href=&quot;#What-I-wanna-to-do-2025-3-30&quot; class=&quot;headerlink&quot; title=&quot;What I wanna to do(2025.3.30):&quot;&gt;&lt;/a&gt;</summary>
+      
+    
+    
+    
+    <category term="-Plan" scheme="https://heyeuu.github.io/categories/Plan/"/>
+    
+    
+  </entry>
+  
+</feed>
